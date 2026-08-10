@@ -55,3 +55,8 @@ The data covers multiple service categories:
 ## 🎯 Project Objective
 
 The primary objective of this project is to transform raw transaction data into an interactive analytical dashboard that enables users to **monitor transaction performance, compare service categories, identify trends, and derive actionable business insights**.
+
+## Screenshot
+### 🏠 Home Dashboard
+
+![Home Dashboard](https://github.com/Pooja194-git/Phonepe-Dashborad/blob/main/Screenshot%202026-08-10%20140658.png)
